@@ -1,5 +1,5 @@
 // Simple Java Program to Print Hello World
-public class HelloWorld {
+public class Helloworld {
 
 	public static void main(String[] args)
 	{
